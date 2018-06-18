@@ -1,4 +1,2 @@
 # HelloWord
-Hello my Word!
-## Hello my  word!
-
+## Hello my Word!
